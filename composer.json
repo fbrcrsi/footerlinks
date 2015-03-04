@@ -3,7 +3,7 @@
     "type": "phpbb-extension",
     "description": "Add Footer Links on phpBB3 Forum.",
     "homepage": "https://github.com/fbrcrsi/footerlinks",
-    "version": "1.0.Alpha",
+    "version": "0.2-alpha",
     "time": "2015-03-03",
     "keywords": [
         "phpbb",
