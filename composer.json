@@ -1,0 +1,27 @@
+{
+	"name": "fbrcrsi/footerlinks",
+	"type": "phpbb-extension",
+	"description": "Add image hosting service",
+	"homepage": "https://github.com/fbrcrsi/footerlinks",
+	"version": "0.1-Alpha",
+	"keywords": ["phpbb", "extension", "footer", "link"],
+	"license": "GPL-2.0",
+	"authors": [
+		{
+			"name": "Frederic",
+			"username": "fbrcrsi",
+			"email": "fbrcrsi@gmail.com",
+			"homepage": "http://www.fbrcrsi.fr",
+			"role": "Extension Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.3.3"
+	},
+	"extra": {
+		"display-name": "Footer Links",
+		"soft-require": {
+			"phpbb/phpbb": "3.1.3"
+		}
+	}
+}
