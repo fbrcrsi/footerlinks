@@ -3,8 +3,8 @@
     "type": "phpbb-extension",
     "description": "Add Footer Links on phpBB3 Forum.",
     "homepage": "https://github.com/fbrcrsi/footerlinks",
-    "version": "0.2-alpha",
-    "time": "2015-03-03",
+    "version": "1.0.0-b2",
+    "time": "2015-03-05",
     "keywords": [
         "phpbb",
         "extension",
@@ -14,11 +14,11 @@
     "license": "GPL-2.0",
     "authors": [
         {
-            "name": "Frederic",
+            "name": "fbrcrsi",
             "username": "fbrcrsi",
             "email": "fbrcrsi@gmail.com",
             "homepage": "http://www.fbrcrsi.fr",
-            "role": "Extension Developer"
+            "role": "Developer"
         }
     ],
     "require": {
@@ -29,6 +29,11 @@
         "display-name": "Footer Links",
         "soft-require": {
             "phpbb/phpbb": ">=3.1.2,<3.2.*@dev"
-        }
+        },
+	"version-check": {
+	    "host": "www.fbrcrsi.fr",
+	    "directory": "/_extphpbb/footerlinks/",
+	    "filename": "version_check.json"
+		}
     }
 }
