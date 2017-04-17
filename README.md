@@ -1,8 +1,8 @@
 # footerlinks
-Add custom links on the footer of phpBB 3.1.3 forum 
+Add custom links on the footer of phpBB 3.1.3 and phpBB 3.2 forum 
 
 ## Quick Install
-You can install this on the latest release of phpBB 3.1.3 by following the steps below:
+You can install this on the latest release of phpBB 3.1.3 phpBB 3.2 by following the steps below:
 
 1. [Download the latest release](https://github.com/fbrcrsi/footerlinks).
 2. Unzip the downloaded release, and change the name of the folder to `footerlinks`.
